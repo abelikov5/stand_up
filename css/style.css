@@ -1,0 +1,121 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+.consult {
+    width: 100%;
+    min-height: 600px;
+    background: url('../img/consult/bg_consalt.jpg') center center/cover no-repeat;
+    padding-top: 60px;
+}
+.consult .consult_wrap {
+    margin: 0 auto;
+    padding-top: 60px;
+    width: 1160px;
+    min-height: 420px;
+    background-color: rgb(255, 255, 255);
+}
+.consult .consult_wrap .consult_wrap_header {
+    font-size: 46px;
+    font-weight: bold;
+    width: 65%;
+    margin: 0 auto;
+    text-align: center;
+}
+.consult .consult_wrap .consult_wrap_subheader {
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: lighter;
+}
+.consult .consult_wrap .consult_wrap_form {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.consult .consult_wrap .consult_wrap_form input {
+    /* padding: 0 30px; */
+    font-size: 16px;
+    width: 80px   
+}
+.consult .consult_wrap .consult_wrap_form input, button {
+    border: 2px solid #f2f2f2;
+    border-radius: 5px;
+    width: 210px;
+    height: 56px;
+    padding: 0 20px;
+    margin: 0 5px 0 5px;
+}
+.consult .consult_wrap .consult_wrap_form button {
+    background-color: #f1393c;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    font-size: 16px;
+}
+.consult .consult_wrap .consult_wrap_uderform {
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Second form */
+
+.consult_sec_form {
+    width: 100%;
+    min-height: 600px;
+    background-color: #f2f2f2;
+    padding-top: 60px;
+}
+.consult_sec_form .consult_wrap {
+    margin: 0 auto;
+    padding-top: 60px;
+    width: 1160px;
+    min-height: 420px;
+    background-color: rgb(255, 255, 255);
+}
+.consult_sec_form .consult_wrap .consult_wrap_header {
+    font-size: 46px;
+    font-weight: bold;
+    width: 65%;
+    margin: 0 auto;
+    text-align: center;
+}
+.consult_sec_form .consult_wrap .consult_wrap_subheader {
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: lighter;
+}
+.consult_sec_form .consult_wrap .consult_wrap_form {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.consult_sec_form .consult_wrap .consult_wrap_form input {
+    font-size: 16px;
+    width: 80px   
+}
+.consult_sec_form .consult_wrap .consult_wrap_form input, button {
+    border: 2px solid #f2f2f2;
+    border-radius: 5px;
+    width: 210px;
+    height: 56px;
+    padding: 0 20px;
+    margin: 0 5px 0 5px;
+}
+.consult_sec_form .consult_wrap .consult_wrap_form button {
+    background-color: #f1393c;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    font-size: 16px;
+}
+.consult_sec_form .consult_wrap .consult_wrap_uderform {
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
