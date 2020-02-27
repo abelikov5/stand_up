@@ -62,6 +62,37 @@
     padding: 0 20px;
 }
 
+/* FOOTER */
+
+.container_new {
+    padding: 20px 0;
+    width: 1120px;
+    min-height: 70px;
+    display: block;
+    margin: 0 auto;
+}
+
+.container_new .container_new_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_new img {
+    width: 140px;
+    height: 100%;
+}
+
+.container_new .mastercard {
+    height: 45px;
+}
+
+.container_new .public_offer {
+    min-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
 
 /* Second form */
